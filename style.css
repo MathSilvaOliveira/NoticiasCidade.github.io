@@ -6,7 +6,7 @@
 
 body{
     font-family: "Trebuchet MS", Helvetica, sans-serif;
-    background: #fff url(../imagens/fundo.png) repeat-x;
+    background: #fff url(fundo.png) repeat-x;
 }
 
 #container {
@@ -16,14 +16,14 @@ body{
 
 #topo {
     height: 150px;
-    background: url(../imagens/detalhe-topo.png) no-repeat right top;
+    background: url(detalhe-topo.png) no-repeat right top;
     padding-top: 25px;
 }
 
 .logo {
     width: 152px;
     height: 66px;
-    background: url(../imagens/logo.png) no-repeat center;
+    background: url(logo.png) no-repeat center;
     text-indent: -3000px;
 }
 
@@ -62,7 +62,7 @@ ul {
     line-height: 2.1;
     text-decoration: none;
     color: #fff;
-    background: url(../imagens/divisor.png) no-repeat left center;
+    background: url(divisor.png) no-repeat left center;
 }
 
 #topo ul .primeiro a {
